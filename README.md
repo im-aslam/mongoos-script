@@ -1,2 +1,1 @@
 # mongoos-script
-qe
